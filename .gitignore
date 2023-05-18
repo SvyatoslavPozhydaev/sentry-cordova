@@ -46,8 +46,8 @@ playground.xcworkspace
 .build/
 
 # Carthage
-**/Carthage/Build
-**/Carthage/Checkouts
+#**/Carthage/Build
+#**/Carthage/Checkouts
 
 # CocoaPods
 **/Pods
