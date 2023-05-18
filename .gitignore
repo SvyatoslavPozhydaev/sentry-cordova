@@ -65,7 +65,6 @@ test_bundle.zip
 __pycache__
 .cache
 wheelhouse
-dist
 package-lock.json
 .rpt2_cache
 
