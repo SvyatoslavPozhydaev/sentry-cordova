@@ -1,3 +1,5 @@
+.idea
+
 # Node
 node_modules
 *.log
@@ -11,7 +13,7 @@ sentry.properties
 # Xcode
 
 ## Build generated
-build/
+./build/
 DerivedData
 www
 coverage
